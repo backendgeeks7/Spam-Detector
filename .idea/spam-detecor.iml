@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../spam-detector">
+      <sourceFolder url="file://$MODULE_DIR$/../spam-detector/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/../spam-detector/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../spam-detector/database/factories" isTestSource="false" packagePrefix="Database\Factories\" />
+      <sourceFolder url="file://$MODULE_DIR$/../spam-detector/database/seeders" isTestSource="false" packagePrefix="Database\Seeders\" />
+      <sourceFolder url="file://$MODULE_DIR$/../spam-detector/app" isTestSource="false" packagePrefix="App\" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/asm89/stack-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/brick/math" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/facade/flare-client-php" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/facade/ignition" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/facade/ignition-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/fakerphp/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/fideloper/proxy" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/fruitcake/laravel-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/laravel/breeze" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/league/commonmark" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/league/mime-type-detection" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/opis/closure" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/phpunit/php-invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/ramsey/collection" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/sebastian/cli-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/sebastian/code-unit" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/sebastian/complexity" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/sebastian/lines-of-code" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/symfony/http-client-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/symfony/polyfill-iconv" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/voku/portable-ascii" />
+      <excludeFolder url="file://$MODULE_DIR$/../spam-detector/vendor/webmozart/assert" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
