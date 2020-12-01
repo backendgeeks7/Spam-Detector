@@ -1,4 +1,4 @@
-## Spam Detector [ Simple techniques to detect form spam]. 
+## Spam Detector [ Simple techniques to detect form spam ]. 
 ## #Introduction
 We need to added a simple tricks to detect if we've **Spam** that it's submit our Html Forms.
 So, we have a simple create new post with title and body and below two difference tips to do so.
@@ -21,7 +21,7 @@ Everything here is configured and you can choose your inputs names, mininum time
  
 Built like a Package to group all these parts together and you can view the whole work inside this directory 
  
-* Please visit [Spam Detector] (https://github.com/backendgeeks7/Spam-Detector/tree/master/app/SpamDetector) to view only    changes.
+> Please visit [Spam Detector] (https://github.com/backendgeeks7/Spam-Detector/tree/master/app/SpamDetector) to view only    changes.
 
 ### License 
 
